@@ -25,6 +25,7 @@
 *.fdb_latexmk
 *.snm
 *.nav
+*.idea
 
 # folders
 /runs/
